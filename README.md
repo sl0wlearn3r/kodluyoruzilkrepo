@@ -17,6 +17,7 @@ Linux icin:
 
  # License
 
- MIT
+ MIT 
+ ![resim](imagetobeaddedtorepository.png)
 
 
