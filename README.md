@@ -18,6 +18,6 @@ Linux icin:
  # License
 
  MIT 
- ![resim](imagetobeaddedtorepository.png)
+ ![resim](https://drive.google.com/file/d/1z3HhfQMPUd8XCXosRg0SDLh4oU-QhUDu/view?usp=sharing)
 
 
